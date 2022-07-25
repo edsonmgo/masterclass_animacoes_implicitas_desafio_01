@@ -1,6 +1,6 @@
 # desafio_botao_flutuante_implicita
 
-Exercício do curso Flutterando Masterclass (Turma 4 )
+Exercício do curso Flutterando Masterclass (Turma 4)
 
 ## Getting Started
 
